@@ -1,0 +1,1 @@
+select name,surname from postgres.public.persons where city_of_living='Moscow';
